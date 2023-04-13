@@ -1,1 +1,4 @@
 # EngSoft
+# Proposta de solução para uma chamada descentralizada
+
+Simples página web integrada com o login oficial do sigaa para identificação do aluno, na qual o aluno verá suas turmas cadastradas que estão com aula em andamento e poderão clicar em um botão para "bater o ponto" na aula. Para isso seria necessário que o professor fizesse o cadastro da turma e o horário das aulas para que o botão ficasse disponível para os alunos a partir de certo horário (começo ou final da aula dependendo da preferencia do professor que realizou o cadastro). Para garantir até certo ponto que o aluno realmente está presente na sala de aula, o site teria que ter acesso limitado somente a IPs conectados pela internet da universidade. No caso do aluno não possuir um aparelho com acesso ao wifi da UNB no momento da aula seria possível o professor marcar ele mesmo a presença desde que tal aluno tome a iniciativa de pedir.
